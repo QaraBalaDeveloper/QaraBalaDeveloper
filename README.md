@@ -15,7 +15,7 @@ I am a beginner PHP developer with 6-7 months of experience and basic knowledge 
 
 ## Contact Me
 - Email: qarabala.developer@gmail.com  
-- Twitter: [@your_handle](https://twitter.com/qb_developer)  
-- LinkedIn: [Your Name](https://linkedin.com/in/qarabala-developer)  
+- Twitter: [@qb_developer](https://twitter.com/qb_developer)  
+- LinkedIn: [QaraBala Developer](https://linkedin.com/in/qarabala-developer)  
 
 Let's work together to create something great! 🚀
